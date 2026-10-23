@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`STALKER-GAMMA-Save-Utility` · Updated: 2026-10-07
+`STALKER-GAMMA-Save-Utility` · Updated: 2026-10-23
 
 **Tags:** `stalker-gamma` `savegame` `utility` `survival` `open-world`
